@@ -6,7 +6,6 @@ My work and projects from the **Turbin3 Q3 2026 Builders Cohort**.
 
 This repository contains the assignments, programs, experiments, and projects I build throughout the cohort while learning and working with Solana, Rust, Anchor, and the broader Solana ecosystem.
 
-## Projects
 
 ### Pre-Req Vault
 An Anchor-based Solana program covering:
